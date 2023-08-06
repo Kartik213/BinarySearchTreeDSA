@@ -1,0 +1,10 @@
+Level order traversal of BST:
+1 
+1 6 
+Search in BST (searching 70):
+Deletion in a BST: 
+1 
+1 6 
+Tree is a BST
+kth smallest element from a BST: 1
+Kth largest element from a BST: -1
